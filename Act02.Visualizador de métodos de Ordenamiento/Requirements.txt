@@ -1,0 +1,12 @@
+Aguirre Macias Andres Santiago
+9/09/2025
+
+Requirements
+
+1. numpy 
+
+py -m pip install numpy
+
+2. matplotlib
+
+py -m pip install matplotlib
